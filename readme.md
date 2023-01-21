@@ -1,1 +1,1 @@
-https://GITHUB-USERNAME.github.io/markdown/rs-cource/cv
+https://Yiriy2102.github.io/markdown/rs-cource/cv
