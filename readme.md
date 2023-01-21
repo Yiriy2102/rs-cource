@@ -1,1 +1,1 @@
-https://Yiriy2102.github.io/markdown/rs-cource/cv
+https://Yiriy2102.github.io/rs-cource/cv
